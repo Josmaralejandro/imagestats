@@ -1,0 +1,19 @@
+{
+  "name": "imagestats",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "imagestats"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Josmaralejandro/imagestats"
+  },
+  "author": "Josmar Munoz",
+  "license": "ISC"
+}
